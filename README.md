@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-Material, ejercicios y evaluaciones del curso de **Algoritmos y Estructuras de Datos** (ISIL).
+Material, ejercicios y evaluaciones del curso de **Algoritmos y Estructuras de Datos** (ISIL)
 
 Autor: **José Gabriel Rosas del Águila** ([@PocheDevv](https://github.com/PocheDevv))
 
