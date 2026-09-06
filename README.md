@@ -6,7 +6,7 @@ Autor: **José Gabriel Rosas del Águila** ([@PocheDevv](https://github.com/Poch
 
 ## Contenido
 
-**Estructuras de datos**
+**Estructuras de datos:**
 - `ListaEnlazadaSimple` — Lista enlazada simple.
 - `ListaDoble` — Lista doblemente enlazada.
 - `PilaEstatica` — Pila (stack) con almacenamiento estático.
